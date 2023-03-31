@@ -1,10 +1,14 @@
 # Security Policy
 
+All dates are in YYYY-MM-DD format.
+
+## Known Vulnerabilities
+
 ## Supported Versions
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 1.23.4.x   | :white_check_mark: |
+| Version | Supported          | Supported Until |
+| ------- | ------------------ | --------------- |
+| 1.23.4.x   | :white_check_mark: | 2023-05-01   |
 
 ## Reporting a Vulnerability
 
